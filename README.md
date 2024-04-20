@@ -125,4 +125,4 @@ Github的学生包里包括Github Pro及Github Copilot等Github福利。
 
 本文及本文作者与Github之间没有关系。本文中所有Github网页的截图版权皆属于Github。
 
-本文博客地址：[关于Github学生认证及学生包的申请指北](https://www.lhcloud.com.cn/index.php/archives/10/)
+本文博客地址：[关于Github学生认证及学生包的申请指北](https://www.lhcloud.com.cn/archives/2/)
