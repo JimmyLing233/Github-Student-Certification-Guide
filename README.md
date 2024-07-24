@@ -44,22 +44,22 @@ Github的学生包里包括Github Pro及Github Copilot等Github福利。
 2. 打开[GitHub benefits](https://education.github.com/discount_requests/pack_application)
 
 3. 选择“Student”
-   ![选择Student](https://oss-zjk.lhcloud.com.cn/pic/2.png)
+   ![选择Student](/pic/2.png)
 
 4. 选择您的邮箱，**如果有教育邮箱（即edu.cn域名的邮箱）一定要优先使用，这在一定程度上能提高通过速度和概率 **，如果上面没有您的邮箱可以点击“Add an email address”进行添加
-   ![选择您的邮箱](https://oss-zjk.lhcloud.com.cn/pic/3.png)
+   ![选择您的邮箱](/pic/3.png)
 
 5. 填入学校的名称，中英文皆可（最好跟着你准备提交资料保持一致，如果资料上包含你校的英文名称即可以填写英文名称）
 
    不可以填入缩写，必须写入完整名称。如深圳技术大学，你必须填入深圳技术大学或Shenzhen Technology University而非深技大、技大或SZTU
-   ![填入学校的名称](https://oss-zjk.lhcloud.com.cn/pic/4.png)
+   ![填入学校的名称](/4.png)
 
 6. 填写你打算如何使用Github，这个并不需要多详细，也不是很重要。
 
    可以直接使用以下理由：
    > I want to learn coding and try to make contribution to the community.
 
-   ![填入理由](https://oss-zjk.lhcloud.com.cn/pic/5.png)
+   ![填入理由](/pic/5.png)
 
 7. 点击绿色的“Continue”按钮进入下一页
    恭喜你已经完成了第一页的所有步骤
@@ -75,8 +75,8 @@ Github的学生包里包括Github Pro及Github Copilot等Github福利。
    >
    >"The item you uploaded is insufficient to demonstrate your current academic status. Modifications to your photo proof might have been detected by the system. "
 
-![上传资料](https://oss-zjk.lhcloud.com.cn/pic/6.png)
-![可使用的资料](https://oss-zjk.lhcloud.com.cn/pic/7.png)填写学校具体信息
+![上传资料](/pic/6.png)
+![可使用的资料](/pic/7.png)填写学校具体信息
 
 * 在“What is your school's website”中填入你学校的官方网址（http://或https://头无影响）
 
@@ -91,7 +91,7 @@ Github的学生包里包括Github Pro及Github Copilot等Github福利。
 * 在“Country”中选择所在的国家，其排列顺序按英文首字母来排列的。中国选择“China”即可
 * 在“Non-US State or CA Province”中填入所在的省份，如广西壮族自治区可以填写广西壮族自治区/Guangxi Zhuang Autonomous Region，再如广东省可以填写广东省/Guangdong Province
 
-![填写学校具体信息](https://oss-zjk.lhcloud.com.cn/pic/8.png)
+![填写学校具体信息](/pic/8.png)
 
 10. 点击绿色“Process my application”按钮提交您的申请
 
